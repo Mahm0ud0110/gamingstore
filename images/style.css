@@ -136,7 +136,7 @@
  
 
 .full_project .fullbody .paner{
-    background-image: url(banner-bg.jpg);
+    background-image: url(./banner-bg.jpg);
     background-size: 100% 100%;
     border-radius: 25px;
     height: 35vh;
