@@ -726,7 +726,7 @@
 @media screen and (max-width: 768px) {
 
     .full_project .fullbody .paner {
-        height: 25vh;
+        height: auto;
     }
 
 
@@ -896,16 +896,6 @@
 
 @media screen and (max-width:420px) {
  
-
-    .full_project .fullbody .paner{
-        background-image: url(/banner-bg.jpg);
-        background-size: 100% 100%;
-        border-radius: 25px;
-        height: 35vh;
-        width: 90%;
-        margin-top: 20px;
-        padding: 20px;
-    }
     .full_project .fullbody .paner h3{
         color: azure;
         font-size: 14px;
